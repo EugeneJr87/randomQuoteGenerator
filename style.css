@@ -1,0 +1,31 @@
+
+body {
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.container {
+	max-width: 800px;
+}
+h1 {
+	font-weight: 800;
+	font-size: 4em;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+.btn {
+	margin: 25px;
+}
+#author {
+	font-size: 3.5em;
+	font-weight: 800;
+
+}
+.main {
+	font-size: 1.5em;
+	padding: 50px 0 10px 0;
+}
