@@ -1,9 +1,4 @@
 
-body {
-	font-family: 'Gloria Hallelujah', cursive;
-
-}
-
 .container {
 	max-width: 800px;
 }
@@ -20,12 +15,9 @@ h1 {
 .btn {
 	margin: 25px;
 }
-#author {
-	font-size: 3.5em;
-	font-weight: 800;
 
-}
 .main {
 	font-size: 1.5em;
 	padding: 50px 0 10px 0;
+	display: none;
 }
